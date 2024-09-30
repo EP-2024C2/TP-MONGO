@@ -84,12 +84,14 @@ Obtiene los datos del fabricante registrado con el id 1, con todos los productos
     "nombre": "TechCorp",
     "direccion": "1234 Elm St, Ciudad",
     "contacto": "+123456789",
+    "pathImgPerfil": "/images/fabricantes/techcorp.jpg",
     "productos": [
         {
             "id": 1,
             "nombre": "Laptop X200",
             "descripcion": "Una laptop de alto rendimiento",
             "precio": 1200.99,
+            "pathImg": "/images/productos/laptop-x200.jpg",
             "componentes": [
                 {
                     "id": 1,
@@ -108,6 +110,7 @@ Obtiene los datos del fabricante registrado con el id 1, con todos los productos
             "nombre": "Smartphone S5",
             "descripcion": "Teléfono inteligente con pantalla OLED",
             "precio": 799.99,
+            "pathImg": "/images/productos/smartphone-s5.jpg",
             "componentes": [
                 {
                     "id": 3,
@@ -135,18 +138,21 @@ Obtiene los datos del producto registrado con el id 1, con todos los fabricantes
     "nombre": "Laptop X200",
     "descripcion": "Una laptop de alto rendimiento",
     "precio": 1200.99,
+    "pathImg": "/images/productos/laptop-x200.jpg",
     "fabricantes": [
         {
             "id": 1,
             "nombre": "TechCorp",
             "direccion": "1234 Elm St, Ciudad",
-            "contacto": "+123456789"
+            "contacto": "+123456789",
+            "pathImgPerfil": "/images/fabricantes/techcorp.jpg"
         },
         {
             "id": 2,
             "nombre": "Innovatech",
             "direccion": "4567 Oak Ave, Ciudad",
-            "contacto": "+987654321"
+            "contacto": "+987654321",
+            "pathImgPerfil": "/images/fabricantes/innovatech.jpg"
         }
     ]
 }
