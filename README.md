@@ -18,7 +18,7 @@ Se evaluará la precisión y completitud en la implementación de las asociacion
 
 Basandose en el siguiente diagrama de entidad-relacion (DER) deberán generar los modelos y la asociaciones en Sequelize para que la API pueda interacturar con la base de datos a través de los Modelos.
 
-![DER](DER.png)
+
 
 ### Descripción del modelo DER
 - Un **Producto** puede tener muchos fabricantes, y un **Fabricante** puede fabricar muchos productos.
