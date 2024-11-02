@@ -33,7 +33,7 @@ Práctica de almacenar manualmente el campo \_id de un documento relacionado com
 
 Han sido contratados/as por una empresa de manufactura para desarrollar un sistema interno de gestión de productos. La empresa fabrica una amplia gama de productos tecnológicos que requieren componentes específicos y son producidos por múltiples fabricantes asociados. Actualmente, el proceso de gestión de esta información es manual y está descentralizado, lo que genera demoras y problemas en la producción. La empresa busca automatizar y centralizar estos datos mediante un sistema web eficiente que permita gestionar los productos, fabricantes y componentes de manera integrada.
 
-## Modelo Relacional a implementar
+## Modelo Documental a implementar
 
 Basandose en el siguiente diagrama de entidad-relacion (DER) utilizado para una base de datos relacional deberán deberán migrarlo a una base documental utilizando los críterios que consideren conveniente en cada caso. Relación Incrustada o Rleación Referenciada.
 
