@@ -226,3 +226,7 @@ Obtiene los datos del producto registrado con el id 1, con todos los fabricantes
 - El equipo debera entegar un repositorio de github con todas las instrucciones necesarias para correr la api.
 - Deberán detallar los commandos necesarios para la instalación y ejecución de la api.
 - El puerto de listener deberá ser configurable por variable de entorno
+
+## BONUS
+
+- Investigar como dockerizar la aplicación en node, es decir, generar una imagen de su aplicacion, versionarla y luego poder por a correr la apliación en un contendor.
